@@ -142,5 +142,13 @@ Power-BI-Dashboard/
 ---
 
 
+## 👨‍💻 Author
 
+**Thilakkumar R**
+
+Aspiring Data Analyst | Python | SQL | Excel | Power BI
+
+📌 GitHub: https://github.com/thilakkumar-coder
+
+📌 LinkedIn: https://www.linkedin.com/in/thilakkumar-r-7a0674414/
 
